@@ -8,7 +8,7 @@ Each objective is supported by a visual analysis (graphs/images), followed by an
 ## 📊 Objectives & Insights
 
 ### 1️⃣ Relation Between Height and Weight
-![sorry can't shown image](image-0.png)
+![sorry can't shown image](image.png)
 
 > **Insight:**  
 
@@ -132,8 +132,7 @@ No clear relation was found between **fat percentage** and **sugar intake**.
 ---
 
 ### 14️⃣ Age vs BPM
-![sorry can't shown image]()
-
+![SORRY CAN'T ADD](image-15.png)
 > **Insight:** 
 
 🧍 Individuals aged **20–45 years** show **higher BPM**, indicating active metabolism and physical activity levels.
@@ -141,8 +140,7 @@ No clear relation was found between **fat percentage** and **sugar intake**.
 ---
 
 ### 15️⃣ Age vs Fat %
-![sorry can't shown image]()
-
+![SORRY CAN'T LOAD](image-16.png)
 > **Insight:** 
 
 People aged **18–43** tend to have **higher body fat percentages**.
@@ -150,8 +148,7 @@ People aged **18–43** tend to have **higher body fat percentages**.
 ---
 
 ### 16️⃣ Workout Type vs Protein Intake
-![sorry can't shown image]()
-
+![SORRY](image-17.png)
 > **Insight:** 
 
 🏃‍♀️ **Cardio** practitioners consume **less protein** compared to other workout types such as HIIT or strength training.
