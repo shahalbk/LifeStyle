@@ -8,8 +8,7 @@ Each objective is supported by a visual analysis (graphs/images), followed by an
 ## 📊 Objectives & Insights
 
 ### 1️⃣ Relation Between Height and Weight
-![sorry can't shown image](image.png)
-
+![can't load](image.png)
 > **Insight:**  
 
 If your height is greater, you are more likely to have a higher weight.  
