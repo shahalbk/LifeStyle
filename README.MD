@@ -85,8 +85,7 @@ They are suitable for maintaining endurance without high heart strain.
 ---
 
 ### 9️⃣ Relation Between BPM and Workout Type
-![sorry can't shown image](image-8.png)
-
+![sorry](image-18.png)
 > **Insight:** 
 
 - **HIIT** = highest BPM (intense effort)  
@@ -112,7 +111,7 @@ They are suitable for maintaining endurance without high heart strain.
 
 ---
 
-### 12️⃣ Relation Between Fat % and Carbs
+### 12️⃣ Relation Between Fat % and Diet type
 ![sorry can't shown image](image-11.png)
 
 > **Insight:**  
